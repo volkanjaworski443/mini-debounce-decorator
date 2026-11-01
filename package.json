@@ -1,6 +1,6 @@
 {
   "name": "mini-debounce-decorator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Debounce utility with injectable clock and timers for deterministic test behavior.",
   "type": "module",
   "main": "src/index.js",
